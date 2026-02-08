@@ -32,7 +32,7 @@ A Flask-based REST API that analyzes and visualizes the time complexity of vario
 
 
 bash
-git clone https://github.com/yourusername/algo-complexity-analyzer.git
+git clone https://github.com/Jobealieu/algo-complexity-analyzer.git
 cd algo-complexity-analyzer
 
 2. Create and activate virtual environment
