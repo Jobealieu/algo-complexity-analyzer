@@ -9,7 +9,7 @@ class DevelopmentConfig(Config):
     """Development configuration"""
     DEBUG = True
     SQLALCHEMY_DATABASE_URI = os.environ.get('DEV_DATABASE_URL') or \
-        'mysql+pymysql://waka:spatni@localhost:3306/airbnb'
+        'mysql+pymysql://Jobealieu:therealworld@localhost:3306/airbnb'
 
 class ProductionConfig(Config):
     """Production configuration"""
